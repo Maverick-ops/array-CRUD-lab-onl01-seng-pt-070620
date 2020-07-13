@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  Guys_at_work << (shovel)
+  Guys_at_work << "Kevin"
 end
 
 def add_element_to_start_of_array(array, element)
